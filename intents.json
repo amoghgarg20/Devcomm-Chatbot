@@ -14,7 +14,7 @@
         "Hey :-)",
         "Hello, thanks for visiting",
         "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hey there, how can I help?"
       ]
     },
     {
@@ -32,40 +32,74 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
+      "tag": "about",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "What is Devcomm?",
+        "Tell me about Devcomm",
+        "What is Devcomm about?",
+        "What happens in Devcomm?",
+        "Why should I join Devcomm?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "Devcomm is the best tech-society at NSUT. Devcomm provides community for the developers to upskill themselves by developing projects with real life applications and interact with other fellow developers."
       ]
     },
     {
-      "tag": "payments",
+      "tag": "register",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "How can I register?",
+        "How can I be a part of Devcomm?",
+        "How to be a part of Devcomm?",
+        "How to join Devcomm?",
+        "What is the joining process?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "Registration is done once every year. For more details visit the registration tab on the website.",
+        "Recruitment begins at the starting of the year. For more details visit the registration tab on the website."
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "eligibility",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "What is the eligibility criteria to join Devcomm?",
+        "Eligibility criteria to join Devcomm"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "The only eligibility criteria is to have enough interesta and enthusiasm :-) ",
+        "Anyone with interest in tech field can be a part of Devcomm :-)"
+      ]
+    },
+    {
+      "tag": "comparison",
+      "patterns": [
+        "How is Devcomm better than other tech societies at NSUT?",
+        "Compare Devcomm with other tech societies",
+        "Why should I join Devcomm and not any other tech society?"
+      ],
+      "responses": [
+        "Devcomm provides you with oppurtunities to be a part of projects with immediate real-life appliactions thereby providing you with adequate exposure to industrial way of working and developing. Devcomm is more active than other tech societies at NSUT and all the major applications like NSUTx and Nescii have been developed by Devcomm."
+      ]
+    },
+    {
+      "tag": "projects",
+      "patterns": [
+        "Tell me about projects developed by Devcomm",
+        "What are the major projects developed by Devcomm?",
+        "Tell me about flagship projects of Devcomm"
+      ],
+      "responses": [
+        "NSUTx and Nescii are the two flagship projects developed by Devcomm. Apart from this other applications like Resource-hub,TNP Portal, Devcomm's official website to name a few have also been developed by developers at Devcomm."
+      ]
+    },
+    {
+      "tag": "events",
+      "patterns": [
+        "What events are organised by Devcomm?",
+        "Tell me about events organised by Devcomm",
+        "Which events are organised by Devcomm?"
+      ],
+      "responses": [
+        "Devcomm organises events round the year to keep the students engaged and provide them with a chance to enhance their technical skills. Techx is Devcomm's flagship annual event with several fun competitions. Apart from this frequent coding competitions and kaggle competitions are also organised."
       ]
     },
     {
